@@ -1,0 +1,6 @@
+npm
+    - pm bash parancs node-os változata
+    - Node Package Manager erre épül
+
+Különböző külső node modulok telepítésére és futtatására használjuk
+Saját node modult is készíthetünk és azt is ez fogja leírni.
